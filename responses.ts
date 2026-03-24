@@ -1,4 +1,3 @@
-responses.ts
 export const allResponses = [
   "i'm not autistic... i think",
   "what?",
