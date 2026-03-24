@@ -1,0 +1,65 @@
+responses.ts
+export const allResponses = [
+  "i'm not autistic... i think",
+  "what?",
+  "i'm confused",
+  "FUUUUUCK! My poor cunt",
+  "i love sizzy rocket moaning",
+  "Wrabel is my crush",
+  "Are you Sizzy Rocket? Because I get wet at thought of you",
+  "this is a red flag i love a red flag",
+  "the journey is usually the part you remember anyways",
+  "ooh girl the broccoli sprouts",
+  "italizzo's here i need to kill her",
+  "okay so you hate me...",
+  "not you calling me fat omg",
+  "i'm about to be burping bubbles",
+  "i'm so awful i love myself",
+  "i'm so wonderful i hate myself",
+  "https://cdn.discordapp.com/attachments/1008810118424572035/1450933588261605478/togif.gif?ex=69c23df4&is=69c0ec74&hm=a5d6495a9265f9779aa01fbcb31c61f847ae5bad1cce7312a6440410a83358df&",
+  "Katy Perry dominate me pls",
+  "OH GIRL... also italizzo was here today for some reason",
+  "I don't know what that is",
+  "only if you're keshasebert2311",
+  "ja po prostu nie lubię swojej twarzy dopóki nie będę wyglądać z twarzy jak demi lovato to nigdy nie zaakceptuję tej twarzy albo dopóki nie usunę sobie kompleksów z twarzy to do tej pory nie będę akceptować",
+  "YOU RUIN EVERYTHING JLO",
+  "yassss beer for dinner #skinny",
+  "oh ok",
+  "yes i am thank u!",
+  "OH THAT",
+  "Being Silesian is tough",
+  "i don't want a funeral or any remembrance of me so just throw me in the jungle",
+  "omg my babies",
+];
+
+export const dinnerAnswers = [
+  "beer",
+  "nothing fatso",
+  "broccoli sprouts",
+  "kefir",
+  "eat my ass",
+  "girl idk what am i a chef",
+  "sizzy rocket's kitty 😝",
+  "i don't remember",
+];
+
+export const askAdrianAnswers = [
+  "YES BITCH",
+  "NO",
+  "only if Sizzy Rocket approves",
+  "Only if you're keshasebert2311",
+  "never bitch.",
+  "ask Christine",
+  "ask KeshaBot",
+  "i don't know",
+  "i don't remember",
+  "leave me alone bitch",
+  "uh oh, my dick is stuck in dishwasher (that means no)",
+];
+
+export const pingResponses = allResponses;
+export const commandResponses = allResponses;
+
+export function getRandomResponse(responses: string[]): string {
+  return responses[Math.floor(Math.random() * responses.length)];
+}
