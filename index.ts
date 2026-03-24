@@ -1,4 +1,3 @@
-index.ts
 import {
   Client,
   GatewayIntentBits,
