@@ -1,6 +1,6 @@
 # AdrianBOT
 
-A Discord bot built with discord.js v14 and TypeScript.
+A Discord bot built with discord.js v14 and TypeScript. For personal use.
 
 ## Commands
 
