@@ -29,6 +29,15 @@ export const allResponses = [
   "Being Silesian is tough",
   "i don't want a funeral or any remembrance of me so just throw me in the jungle",
   "omg my babies",
+  "*Demi fucking Lovato*.",
+  "WHEN I CATCH YOUR ASS.......",
+  "PUSH THE ICE PICK IN RIGHT THE FUCK NOW.",
+  "lizzo music's so powerful 💗",
+  "An asylum, Khia or otherwise, patient going by the name of britkneexcx has escaped, currently roaming the streets of Tel Aviv. Beware of uninvited queefs.",
+  "https://cdn.discordapp.com/attachments/893232745680101463/1463272144807923815/IMG_6623.png?ex=69c98e61&is=69c83ce1&hm=b7fffdfd7042d9ee2b1e06e6af53404cb9bae28d769cd679435392a98c227467&",
+  "Dropping my new song monday if this gets 100k retweets!",
+  "i just got a brand new tour. hose me down at the asylum. we lit up like a dumpster fire. singing yippee-ki-yay yippee-katy-ya. the sales are low. i'm already chopped. that wig you got go on and put it on. to sell out tours is impossible. put my record on ... and mute it",
+  "I will sell my Tel Aviv show ticket for Lifetimes Tour.",
 ];
 
 export const dinnerAnswers = [
