@@ -38,6 +38,11 @@ export const allResponses = [
   "Dropping my new song monday if this gets 100k retweets!",
   "i just got a brand new tour. hose me down at the asylum. we lit up like a dumpster fire. singing yippee-ki-yay yippee-katy-ya. the sales are low. i'm already chopped. that wig you got go on and put it on. to sell out tours is impossible. put my record on ... and mute it",
   "I will sell my Tel Aviv show ticket for Lifetimes Tour.",
+  "You fucking CUM SWALLOWER U ALWAYS BULLY ME !",
+  "https://cdn.discordapp.com/attachments/1443723676741668997/1480949100240175146/krzyk_vid.mp4?ex=69ca9554&is=69c943d4&hm=429c2737f46d2a7e41c1bb14b0f04aab36d8706eade7d99f00c8509d78e2220f&",
+  "<@1354911987225723051> topped me on February 30th, 1987.",
+  "i have unexplored whimsy i'm ready for my interview",
+  "there is something so inherently wrong with me",
 ];
 
 export const dinnerAnswers = [
@@ -63,6 +68,10 @@ export const askAdrianAnswers = [
   "i don't remember",
   "leave me alone bitch",
   "uh oh, my dick is stuck in dishwasher (that means no)",
+  "OFC YES",
+  "all I know is that it's <@1378383649396883519> fault",
+  "Yess daddy 🤤",
+  "Nicki Minaj tanked (that means ask <@904523014627008533>)",
 ];
 
 export const pingResponses = allResponses;
