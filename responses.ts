@@ -43,6 +43,8 @@ export const allResponses = [
   "<@1354911987225723051> topped me on February 30th, 1987.",
   "i have unexplored whimsy i'm ready for my interview",
   "there is something so inherently wrong with me",
+  "just take it out on me.... 🙁",
+  "going with <@1354911987225723051> to lifetimes tour show in Tel Aviv im so fucking excited yass bitch",
 ];
 
 export const dinnerAnswers = [
