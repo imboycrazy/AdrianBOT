@@ -46,7 +46,7 @@ export const allResponses = [
   "just take it out on me.... 🙁",
   "going with <@1354911987225723051> to lifetimes tour show in Tel Aviv im so fucking excited yass bitch",
   "@ddlovato NO MORE BRAIN DAMAGE",
-  "<@1032649573199523900> kys faggot",
+  "<@1032649573199523900> kys f4ggot",
   "i'm in my F4G ASS JEANS",
   "britknee wants to top me 🙁",
   "am i jealous of rita ora jesus fuck i need to be gone from this world",
