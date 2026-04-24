@@ -6,6 +6,7 @@ import {
   Routes,
   SlashCommandBuilder,
   EmbedBuilder,
+  ActivityType,
   type ChatInputCommandInteraction,
   type Message,
 } from "discord.js";
@@ -170,6 +171,11 @@ client.on(Events.InteractionCreate, async (interaction) => {
       });
     }
   }
+});
+
+client.once(Events.ClientReady, (c) => {
+    c.user.setActivity('Low Rise Jeans', { type: ActivityType.Listening });
+    console.log(`Ready! Logged in as ${c.user.tag}`);
 });
 
 client.login(token);
