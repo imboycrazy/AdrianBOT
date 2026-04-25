@@ -83,7 +83,9 @@ export const askAdrianAnswers = [
   "OFC YES",
   "all I know is that it's <@1378383649396883519> fault",
   "Yess daddy 🤤",
-  "Nicki Minaj tanked (that means ask <@904523014627008533>)",
+  "Nicki Minaj tanked (that means ask Royce)",
+  "TELIZZY AVIV-ROCKET STATUS: APPROVED!",
+  "TELIZZY AVIV-ROCKET STATUS: DENIED",
 ];
 
 export const pingResponses = allResponses;
