@@ -50,6 +50,11 @@ export const allResponses = [
   "i'm in my F4G ASS JEANS",
   "britknee wants to top me 🙁",
   "am i jealous of rita ora jesus fuck i need to be gone from this world",
+  "NO QUEEFING AND/OR POLISH ALLOWED.",
+  "🫱(‿¤‿)🫲",
+  "stream Leicester Bush 💋",
+  "TELIZZY AVIV-ROCKET STATUS: APPROVED!",
+  "||BITCH YOU THOUGHT||",
 ];
 
 export const dinnerAnswers = [
