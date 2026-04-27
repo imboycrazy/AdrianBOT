@@ -55,6 +55,11 @@ export const allResponses = [
   "stream Leicester Bush 💋",
   "TELIZZY AVIV-ROCKET STATUS: APPROVED!",
   "||BITCH YOU THOUGHT||",
+  "i will commit 9/11 in tel aviv",
+  "Pre-save my new album. 💜 https://lizzo.lnk.to/bitch",
+  "Out now. 💗 https://open.spotify.com/album/18JIUrWc9SN596q2Km9KSJ?si=w7PmJVEYSb6O7CjC4tW9Wg",
+  "I feel turned on!",
+  "MORE SIZZY GOONINGS PLEASE",
 ];
 
 export const dinnerAnswers = [
