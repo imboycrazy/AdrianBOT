@@ -60,6 +60,12 @@ export const allResponses = [
   "Out now. 💗 https://open.spotify.com/album/18JIUrWc9SN596q2Km9KSJ?si=w7PmJVEYSb6O7CjC4tW9Wg",
   "I feel turned on!",
   "MORE SIZZY GOONINGS PLEASE",
+  "explore my ass",
+  "Let me remind who you're talking to: https://en.wikipedia.org/wiki/Faggot",
+  "Feeling #FRESH 🫦 https://cdn.discordapp.com/attachments/1495815961310134524/1499469543272091849/adele.jpg?ex=69f4e955&is=69f397d5&hm=cb43709fa28aa1d3906a6d34caec201d16bfbe6399e0aab8e51b83335119aa4f&",
+  "Tatusiu, dziękuję za najpiękniejszy prezent w życiu 🫦",
+  "@sizzyrocket u up? 👅",
+  "omg i got this what does it mean https://cdn.discordapp.com/attachments/1008809187079376966/1489711892737036469/image.png?ex=69f45990&is=69f30810&hm=0fafa6586632d992be958869e87687d6bf610769e2e35f8db089886462a52ec8&",
 ];
 
 export const dinnerAnswers = [
