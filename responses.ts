@@ -1,12 +1,10 @@
 export const allResponses = [
   "i'm not autistic... i think",
-  "what?",
   "i'm confused",
   "FUUUUUCK! My poor cunt",
   "i love sizzy rocket moaning",
   "Wrabel is my crush",
   "Are you Sizzy Rocket? Because I get wet at thought of you",
-  "this is a red flag i love a red flag",
   "the journey is usually the part you remember anyways",
   "ooh girl the broccoli sprouts",
   "italizzo's here i need to kill her",
@@ -66,6 +64,8 @@ export const allResponses = [
   "Tatusiu, dziękuję za najpiękniejszy prezent w życiu 🫦",
   "@sizzyrocket u up? 👅",
   "omg i got this what does it mean https://cdn.discordapp.com/attachments/1008809187079376966/1489711892737036469/image.png?ex=69f45990&is=69f30810&hm=0fafa6586632d992be958869e87687d6bf610769e2e35f8db089886462a52ec8&",
+  "ugh this incomming summer hit @lizzo ily [!](https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4?si=3b5533ba8d874a05)",
+  "Excuse me queef, not to be disrespectful or rude but could you please take post down. That is my lawyer who was transitioned by a British chop writer. And it this post is very defamatory. Idk who you are or if you even know him but I need you to take this down please.",
 ];
 
 export const dinnerAnswers = [
