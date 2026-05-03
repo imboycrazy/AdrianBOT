@@ -68,7 +68,7 @@ export const allResponses = [
   "Excuse me queef, not to be disrespectful or rude but could you please take post down. That is my lawyer who was transitioned by a British chop writer. And it this post is very defamatory. Idk who you are or if you even know him but I need you to take this down please.",
   "lizzo got me a birthday cake 🩷 https://cdn.discordapp.com/attachments/1350086261112700988/1500546995243323402/cake.mp4?ex=69f8d4ca&is=69f7834a&hm=bcc0c9ee8185e4f7c608e4721ac5775edf307e67819edf5aefb10214c6622741&",
   "asked my bestie Lizzo to promote origami and she did it 🥹 https://cdn.discordapp.com/attachments/1350086261112700988/1500547386819481660/promo.mp4?ex=69f8d527&is=69f783a7&hm=0765fc35320fcc55cda560eca73e06cc4496f5b0c39c820fae0cb6b518d5c4db&",
-  "can yall rate my ass in the scale from 1 to 10? x https://cdn.discordapp.com/attachments/1350086261112700988/1500547748779393167/ass.mp4?ex=69f8d57e&is=69f783fe&hm=57f8d801c50e6dba5acdbf660af52f16c7238207ef566da92b04f9701b11fb4b&",
+  "can yall rate my ass in the scale from 1 to 10 pls x https://cdn.discordapp.com/attachments/1350086261112700988/1500548573115449506/ass.mp4?ex=69f8d642&is=69f784c2&hm=e18f7c1a5705f8cc0062a59e1c364b6de7cacedff504955f15bb501f2e086d70&",
 ];
 
 export const dinnerAnswers = [
