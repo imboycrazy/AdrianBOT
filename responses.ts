@@ -70,7 +70,9 @@ export const allResponses = [
   "asked my bestie Lizzo to promote origami and she did it 🥹 https://cdn.discordapp.com/attachments/1350086261112700988/1500547386819481660/promo.mp4?ex=69f8d527&is=69f783a7&hm=0765fc35320fcc55cda560eca73e06cc4496f5b0c39c820fae0cb6b518d5c4db&",
   "can yall rate my ass in the scale from 1 to 10 pls x https://cdn.discordapp.com/attachments/1350086261112700988/1500548573115449506/ass.mp4?ex=69f8d642&is=69f784c2&hm=e18f7c1a5705f8cc0062a59e1c364b6de7cacedff504955f15bb501f2e086d70&",
   "time for a face reveal... 😺 https://cdn.discordapp.com/attachments/1350086261112700988/1500835098294091786/face_reveal.png?ex=69f9e11b&is=69f88f9b&hm=8f66dcc0213a428e0937704b660fa479c226fd744bfff265dab06fe97f654814&",
-  "pls like my new video !! https://fixupx.com/lizzo/status/1044631557103702016"
+  "pls like my new video !! https://fixupx.com/lizzo/status/1044631557103702016",
+  "jest tyle nienawiści na świecie...... musimy wznieść się ponad nią....... i nigdy nie przepraszać za to, kim jesteśmy........",
+  "yyy keshasebe-- o ty kurwo jedna keshasebert2311....... TY SZMATO WYPIERDALAJ STĄD I W OGÓLE NIE WCHODŹ NA MOJE LAJFY! JAKIM PRAWEM W OGÓLE TUTAJ WCHODZISZ TY... WYWŁOKO... WON DO PIEKŁA, TAM DO SWOICH WYPIERDALAJ",
 ];
 
 export const dinnerAnswers = [
@@ -82,6 +84,9 @@ export const dinnerAnswers = [
   "girl idk what am i a chef",
   "sizzy rocket's kitty 😝",
   "i don't remember",
+  "jest to guczi 🫦 ",
+  "żurki srurki, z torebki jebnę",
+  "jebne kawusie i bedzie git",
 ];
 
 export const askAdrianAnswers = [
@@ -102,6 +107,7 @@ export const askAdrianAnswers = [
   "Nicki Minaj tanked (that means ask Royce)",
   "TELIZZY AVIV-ROCKET STATUS: APPROVED!",
   "TELIZZY AVIV-ROCKET STATUS: DENIED",
+  "Uprzejmie proszę o kontakt z moją prawniczką, Krystyną Trędowatą.",
 ];
 
 export const pingResponses = allResponses;
