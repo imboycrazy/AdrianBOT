@@ -13,7 +13,7 @@ import {
 } from "./responses.js";
 import fs from 'fs';
 import path from 'path';
-import {pathToFileURL} from "url";
+import { pathToFileURL, fileURLToPath } from "url";
 
 const token = process.env["DISCORD_BOT_TOKEN"];
 
@@ -39,8 +39,11 @@ const client = new myClient({
 // prefix used for all chat commands
 const prefix = '!';
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 // get chat commands
-const chat_commandsPath = path.join(process.cwd(), "chat_commands");
+const chat_commandsPath = path.join(__dirname, "chat_commands");
 const chat_commandsFiles = fs.readdirSync(chat_commandsPath).filter(file => ['.ts', '.js'].some(ext => file.endsWith(ext)));
 for (const file of chat_commandsFiles) {
   const imported = await import(pathToFileURL(path.join(chat_commandsPath, file)).href);
@@ -54,7 +57,7 @@ for (const file of chat_commandsFiles) {
 }
 
 // get slash commands
-const slash_commandsPath = path.join(process.cwd(), "slash_commands");
+const slash_commandsPath = path.join(__dirname, "slash_commands");
 const slash_commandsFiles = fs.readdirSync(slash_commandsPath).filter(file => ['.ts', '.js'].some(ext => file.endsWith(ext)));
 for (const file of slash_commandsFiles) {
   const imported = await import(pathToFileURL(path.join(slash_commandsPath, file)).href);
